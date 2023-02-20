@@ -6,7 +6,7 @@ The AI is a Neural Network trained with the NeuroEvolution of Augmenting Topolog
 
 
 ## What I Learned
-* Buil AI upon available game program, make it possible for it to both get trained and play the game
+* Build AI upon available game program, make it possible for it to both get trained and play the game
 * Understand and apply NEAT algorithm
 
 ## Instructions
